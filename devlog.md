@@ -1169,3 +1169,6 @@ Daily progress notes.
 ### Feb 28, 2024 15:10
 - Fixed form validation
 
+### Jan 01, 2023 15:15
+- Added accessibility features
+
