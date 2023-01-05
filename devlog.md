@@ -20,3 +20,6 @@ Daily progress notes.
 ### Jan 04, 2023 22:26
 - Fixed edge case bugs
 
+### Jan 05, 2023 14:43
+- Updated color scheme
+
