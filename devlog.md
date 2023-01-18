@@ -1223,3 +1223,6 @@ Daily progress notes.
 ### Jan 18, 2023 13:03
 - Fixed form validation
 
+### Jan 18, 2023 19:19
+- Worked on component styling
+
