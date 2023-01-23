@@ -1229,3 +1229,6 @@ Daily progress notes.
 ### Jan 20, 2023 18:59
 - Updated color scheme
 
+### Jan 23, 2023 20:57
+- Updated documentation
+
