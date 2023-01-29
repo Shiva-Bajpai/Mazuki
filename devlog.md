@@ -1235,3 +1235,6 @@ Daily progress notes.
 ### Jan 24, 2023 16:58
 - Improved responsiveness
 
+### Jan 29, 2023 10:59
+- Added error handling
+
