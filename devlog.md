@@ -1283,3 +1283,6 @@ Daily progress notes.
 ### Feb 12, 2023 17:40
 - Refactored state management
 
+### Feb 16, 2023 14:00
+- Added error handling
+
