@@ -137,3 +137,6 @@ Daily progress notes.
 ### Feb 17, 2023 23:27
 - Updated dependencies
 
+### Feb 18, 2023 11:08
+- Cleaned up unused code
+
