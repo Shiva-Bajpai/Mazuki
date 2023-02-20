@@ -149,3 +149,6 @@ Daily progress notes.
 ### Feb 19, 2023 18:41
 - Fixed layout issues
 
+### Feb 20, 2023 10:50
+- Refactored state management
+
