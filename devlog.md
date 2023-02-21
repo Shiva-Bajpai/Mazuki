@@ -152,3 +152,6 @@ Daily progress notes.
 ### Feb 20, 2023 10:50
 - Refactored state management
 
+### Feb 21, 2023 18:51
+- Updated color scheme
+
