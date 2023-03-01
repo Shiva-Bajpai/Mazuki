@@ -167,3 +167,6 @@ Daily progress notes.
 ### Mar 01, 2023 11:54
 - Updated documentation
 
+### Mar 01, 2023 15:14
+- Added error handling
+
