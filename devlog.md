@@ -1328,3 +1328,6 @@ Daily progress notes.
 ### Mar 06, 2023 23:50
 - Improved responsiveness
 
+### Mar 09, 2023 18:38
+- Worked on component styling
+
