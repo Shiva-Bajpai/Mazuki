@@ -299,3 +299,6 @@ Daily progress notes.
 ### Apr 07, 2023 14:58
 - Improved animations
 
+### Apr 07, 2023 16:03
+- Fixed mobile layout
+
