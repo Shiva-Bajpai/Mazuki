@@ -1457,3 +1457,6 @@ Daily progress notes.
 ### Apr 30, 2023 14:11
 - Updated documentation
 
+### May 01, 2023 18:58
+- Worked on component styling
+
