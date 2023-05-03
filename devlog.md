@@ -380,3 +380,6 @@ Daily progress notes.
 ### May 03, 2023 12:24
 - Added accessibility features
 
+### May 03, 2023 13:29
+- Improved animations
+
