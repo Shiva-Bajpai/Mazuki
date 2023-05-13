@@ -401,3 +401,6 @@ Daily progress notes.
 ### May 11, 2023 20:48
 - Optimized performance
 
+### May 13, 2023 08:28
+- Worked on component styling
+
