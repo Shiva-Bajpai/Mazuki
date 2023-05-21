@@ -1508,3 +1508,6 @@ Daily progress notes.
 ### May 20, 2023 22:31
 - Updated color scheme
 
+### May 21, 2023 22:37
+- Fixed form validation
+
