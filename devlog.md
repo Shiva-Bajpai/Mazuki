@@ -1511,3 +1511,6 @@ Daily progress notes.
 ### May 21, 2023 22:37
 - Fixed form validation
 
+### May 29, 2023 12:36
+- Improved user experience
+
