@@ -482,3 +482,6 @@ Daily progress notes.
 ### Jun 05, 2023 23:39
 - Improved user experience
 
+### Jun 06, 2023 13:45
+- Updated documentation
+
