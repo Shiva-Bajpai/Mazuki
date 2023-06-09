@@ -488,3 +488,6 @@ Daily progress notes.
 ### Jun 08, 2023 15:28
 - Fixed edge case bugs
 
+### Jun 09, 2023 22:40
+- Improved animations
+
