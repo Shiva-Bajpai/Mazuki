@@ -500,3 +500,6 @@ Daily progress notes.
 ### Jun 10, 2023 17:20
 - Improved navigation
 
+### Jun 10, 2023 18:47
+- Fixed form validation
+
