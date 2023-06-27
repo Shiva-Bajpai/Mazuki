@@ -566,3 +566,6 @@ Daily progress notes.
 ### Jun 27, 2023 14:06
 - Updated dependencies
 
+### Jun 27, 2023 17:30
+- Added loading states
+
