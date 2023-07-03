@@ -587,3 +587,6 @@ Daily progress notes.
 ### Jul 02, 2023 20:17
 - Cleaned up unused code
 
+### Jul 03, 2023 14:57
+- Fixed edge case bugs
+
