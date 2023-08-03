@@ -653,3 +653,6 @@ Daily progress notes.
 ### Aug 02, 2023 17:24
 - Fixed form validation
 
+### Aug 03, 2023 10:32
+- Updated color scheme
+
