@@ -1730,3 +1730,6 @@ Daily progress notes.
 ### Aug 21, 2023 23:25
 - Fixed mobile layout
 
+### Aug 23, 2023 10:54
+- Worked on component styling
+
