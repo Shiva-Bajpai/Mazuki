@@ -800,3 +800,6 @@ Daily progress notes.
 ### Oct 13, 2023 17:10
 - Added loading states
 
+### Oct 15, 2023 11:37
+- Fixed layout issues
+
