@@ -806,3 +806,6 @@ Daily progress notes.
 ### Oct 16, 2023 16:33
 - Worked on component styling
 
+### Oct 16, 2023 20:35
+- Fixed form validation
+
