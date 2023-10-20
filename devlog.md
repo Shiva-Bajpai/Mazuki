@@ -818,3 +818,6 @@ Daily progress notes.
 ### Oct 18, 2023 21:05
 - Cleaned up unused code
 
+### Oct 20, 2023 08:13
+- Updated documentation
+
