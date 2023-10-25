@@ -830,3 +830,6 @@ Daily progress notes.
 ### Oct 22, 2023 19:06
 - Worked on component styling
 
+### Oct 25, 2023 13:08
+- Fixed layout issues
+
