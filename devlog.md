@@ -1853,3 +1853,6 @@ Daily progress notes.
 ### Oct 27, 2023 22:42
 - Refactored state management
 
+### Oct 30, 2023 12:22
+- Fixed form validation
+
