@@ -1940,3 +1940,6 @@ Daily progress notes.
 ### Dec 04, 2023 16:20
 - Updated dependencies
 
+### Dec 04, 2023 20:28
+- Worked on component styling
+
