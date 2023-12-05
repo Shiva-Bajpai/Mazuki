@@ -965,3 +965,6 @@ Daily progress notes.
 ### Dec 04, 2023 20:43
 - Improved responsiveness
 
+### Dec 05, 2023 14:24
+- Improved animations
+
