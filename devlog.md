@@ -1952,3 +1952,6 @@ Daily progress notes.
 ### Dec 05, 2023 22:24
 - Improved navigation
 
+### Dec 11, 2023 08:27
+- Cleaned up unused code
+
