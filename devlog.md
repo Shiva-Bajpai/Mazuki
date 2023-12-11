@@ -986,3 +986,6 @@ Daily progress notes.
 ### Dec 10, 2023 18:52
 - Updated dependencies
 
+### Dec 11, 2023 13:14
+- Refactored state management
+
