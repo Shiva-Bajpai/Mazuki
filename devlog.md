@@ -995,3 +995,6 @@ Daily progress notes.
 ### Dec 13, 2023 15:07
 - Fixed layout issues
 
+### Dec 13, 2023 20:03
+- Improved animations
+
