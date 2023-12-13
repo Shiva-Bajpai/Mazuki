@@ -1961,3 +1961,6 @@ Daily progress notes.
 ### Dec 13, 2023 13:44
 - Fixed edge case bugs
 
+### Dec 13, 2023 15:07
+- Cleaned up unused code
+
