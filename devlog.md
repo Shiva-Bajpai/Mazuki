@@ -1985,3 +1985,6 @@ Daily progress notes.
 ### Dec 19, 2023 17:45
 - Added error handling
 
+### Dec 20, 2023 14:37
+- Updated documentation
+
