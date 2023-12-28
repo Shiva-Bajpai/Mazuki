@@ -2003,3 +2003,6 @@ Daily progress notes.
 ### Dec 28, 2023 11:15
 - Improved user experience
 
+### Dec 28, 2023 20:08
+- Cleaned up unused code
+
