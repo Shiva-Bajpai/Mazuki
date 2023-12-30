@@ -1040,3 +1040,6 @@ Daily progress notes.
 ### Dec 29, 2023 18:28
 - Cleaned up unused code
 
+### Dec 30, 2023 22:04
+- Fixed mobile layout
+
