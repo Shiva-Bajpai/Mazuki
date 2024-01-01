@@ -1043,3 +1043,6 @@ Daily progress notes.
 ### Dec 30, 2023 22:04
 - Fixed mobile layout
 
+### Jan 01, 2024 10:36
+- Cleaned up unused code
+
