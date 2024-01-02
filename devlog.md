@@ -1046,3 +1046,6 @@ Daily progress notes.
 ### Jan 01, 2024 10:36
 - Cleaned up unused code
 
+### Jan 02, 2024 11:39
+- Improved animations
+
