@@ -2042,3 +2042,6 @@ Daily progress notes.
 ### Jan 15, 2024 10:44
 - Worked on component styling
 
+### Jan 15, 2024 14:49
+- Added error handling
+
