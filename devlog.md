@@ -1076,3 +1076,6 @@ Daily progress notes.
 ### Jan 15, 2024 23:52
 - Updated color scheme
 
+### Jan 20, 2024 20:37
+- Refactored state management
+
