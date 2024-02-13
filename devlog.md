@@ -2102,3 +2102,6 @@ Daily progress notes.
 ### Feb 11, 2024 19:06
 - Improved user experience
 
+### Feb 13, 2024 14:06
+- Cleaned up unused code
+
