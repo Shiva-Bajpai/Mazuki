@@ -1136,3 +1136,6 @@ Daily progress notes.
 ### Feb 12, 2024 12:51
 - Worked on component styling
 
+### Feb 15, 2024 11:34
+- Added accessibility features
+
