@@ -2120,3 +2120,6 @@ Daily progress notes.
 ### Feb 21, 2024 10:16
 - Cleaned up unused code
 
+### Feb 21, 2024 17:44
+- Added accessibility features
+
